@@ -28,14 +28,3 @@ weekNN_topic/
 ```
 
 Ноутбуки рассчитаны на Google Colab: кнопка «Open in Colab» есть в README каждого занятия.
-
-## Модель и доступ
-
-На курсе одна модель — Qwen3.6-35B-A3B, провайдера каждый выбирает сам (Yandex Cloud AI Studio, OpenRouter, своя машина).
-Ноутбуки читают адрес, ключ и имя модели из секретов Colab `LLM_BASE_URL`, `LLM_API_KEY`, `LLM_MODEL`.
-Подробная инструкция по доступу к модели — в `setup.md` (скоро).
-
-## Домашнее задание
-
-Терминальный агент с нуля, проверка на задачах [Terminal-Bench 2.1](https://github.com/harbor-framework/terminal-bench-2-1).
-Условия и дедлайны — в `homework/` (скоро).
