@@ -26,5 +26,3 @@ weekNN_topic/
   seminar/seminarNN_tasks.ipynb   ноутбук с TODO — выкладывается перед занятием
   seminar/seminarNN_solutions.ipynb   ноутбук с решениями — после занятия
 ```
-
-Ноутбуки рассчитаны на Google Colab: кнопка «Open in Colab» есть в README каждого занятия.
