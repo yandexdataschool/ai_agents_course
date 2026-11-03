@@ -6,7 +6,7 @@
 
 Долгосрочная и краткосрочная память. Context engineering, context rot, compaction, память между сессиями, agentic search vs RAG, KV-cache.
 
-Слайды: `lecture/slides.pdf` — появятся после занятия.
+Слайды: `lecture/slides.pdf`.
 
 ## Семинар
 

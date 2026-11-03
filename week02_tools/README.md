@@ -6,7 +6,7 @@
 
 Дизайн тулов как дисциплина, MCP, скилы, code execution, песочницы, browser/computer use.
 
-Слайды: `lecture/slides.pdf` — появятся после занятия.
+Слайды: `lecture/slides.pdf`.
 
 ## Семинар
 
