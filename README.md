@@ -22,7 +22,7 @@
 ```
 weekNN_topic/
   README.md                          дата, лектор, ссылки на слайды и ноутбуки
-  lecture/slides.pptx                слайды лекции
+  lecture/slides.*                   слайды лекции (pptx или html)
   seminar/seminarNN_tasks.ipynb      ноутбук с TODO — выкладывается перед занятием
   seminar/seminarNN_solutions.ipynb  ноутбук с решениями — после занятия
 ```
